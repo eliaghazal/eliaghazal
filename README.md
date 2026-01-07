@@ -13,9 +13,7 @@ Co-founder of **TwoFoundersLab** with **@georgekhayat**.
 
 ### 🌡️ Web Bluetooth Medical Dashboard (Web App)
 Web Bluetooth Medical/Fitness Dashboard + real-time hardware integration designed for health monitoring use cases (ASP.NET Core + Web Bluetooth API + live visualization).
-
 Repo: https://github.com/eliaghazal/Web-Bluetooth-Medical-Fitness-Dashboard
-
 Live: https://health-dashboard-1ccg.onrender.com/
 
 ### 🚑 CrashLens (Capstone)
