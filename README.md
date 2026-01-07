@@ -78,7 +78,8 @@ Live: https://mysterypersona.me
 - Cisco — Switching, Routing, and Wireless Essentials  
 - ECPE — Certificate of Proficiency in English  
 - TOEFL iBT
-- DELF B2  
+- DELF B2
+- GRE  
 
 ---
 
