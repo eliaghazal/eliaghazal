@@ -17,7 +17,7 @@
 ## About
 
 CS/AI student at **AUST Beirut** (GPA **3.8 / 4.0**, graduating **July 2026**).
-**1st place — AUST Coding Expo.** Interned at **Smart Code SAL** building Java/Spring Boot backends.
+**1st place — AUST Coding Expo.** Interned at **Smart Code Lebanon** building Java/Spring Boot backends.
 Co-founder of **TwoFoundersLab**. Author of *Whispers of The Eclipse* (published poetry).
 
 I work at the intersection of AI engineering, full-stack development, and hardware — building things that actually run in the real world, not just in notebooks.
