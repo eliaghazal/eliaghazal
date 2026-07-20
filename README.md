@@ -26,7 +26,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| [EmotionAI](https://github.com/eliaghazal/EmotionAI) | Real-time multi-face emotion recognition with SE-attention CNN and live web dashboard | PyTorch · Flask · SocketIO · OpenCV |
+| [EmotionAI](https://github.com/eliaghazal/EmotionAI) | Real-time multi-face emotion recognition with SE-attention CNN and live web dashboard — built with Georges El Khayat | PyTorch · Flask · SocketIO · OpenCV |
 | [Web Bluetooth Dashboard](https://github.com/eliaghazal/Web-Bluetooth-Medical-Fitness-Dashboard) | Live BLE/GATT sensor streaming (heart rate, temperature) directly in the browser — course project turned working product | ASP.NET Core · Web Bluetooth API |
 | [eliaghazal.com](https://eliaghazal.com) | Portfolio & writing — Next.js 15, 100/100 Lighthouse | Next.js · Vercel |
 
@@ -42,7 +42,7 @@
 
 ## Certifications & Languages
 
-Cisco CCNA (Intro to Networks 2024 · Switching, Routing & Wireless 2025) · Cisco IT Essentials (2024) · Michigan ECPE (English C2) · DELF B2 (French)
+IT Specialist — Python, Certiport/Pearson (2024) · Cisco CCNA (Intro to Networks 2024 · Switching, Routing & Wireless 2025) · Cisco IT Essentials (2024) · Michigan ECPE (English C2) · DELF B2 (French)
 
 Arabic (native) · English (C2) · French (B2) · Italian (learning)
 
