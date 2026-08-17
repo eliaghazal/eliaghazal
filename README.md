@@ -34,7 +34,6 @@
 
 - **Backend Engineering Intern — Smart Code, Lebanon** (Sep 15 – Nov 3, 2025): Spring Boot REST APIs, Kafka messaging, ISO-message POS socket server
 - **Instructor — AI Summer Camp for high-schoolers** (Jul 2026): designed and taught a beginner AI/programming curriculum
-- **Co-founder — KGH Solutions**, a small software studio (2025–present)
 
 ## Education
 
