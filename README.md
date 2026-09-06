@@ -38,7 +38,7 @@
 
 ## Education
 
-**B.S. Computer Science — AUST Beirut**, awarded June 2026 (completed in 3 years) · **GPA 3.81/4.00, High Distinction** · Distinguished List ×5 semesters
+**B.S. Computer Science — AUST Beirut**, Oct 2023 – Jun 2026 (under 3 years) · **GPA 3.81/4.00, High Distinction** · Distinguished List ×5 semesters
 
 ## Certifications & Languages
 
