@@ -2,7 +2,7 @@
 
 # Elia Ghazal
 
-**NLP / LLM-Evaluation Researcher · Hugging Face Transformers Contributor · CrashLens Co-founder**
+**NLP / LLM-Evaluation Researcher · CrashLens Co-founder**
 
 *I study whether AI judges can be trusted — and build the systems that test them.*
 
