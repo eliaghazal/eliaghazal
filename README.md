@@ -4,7 +4,7 @@
 
 **NLP / LLM-Evaluation Researcher · CrashLens Co-founder**
 
-*I study whether AI judges can be trusted — and build the systems that test them.*
+*I study whether AI judges can be trusted, and build the systems that test them.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-eliaghazal-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/eliaghazal)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--1379--5542-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-1379-5542)
@@ -18,7 +18,7 @@
 ## Research & Selected Contributions
 
 - **Dialect Is Not Error** — lead author. Auditing prestige bias in LLM-as-a-judge systems under Arabic diglossia: a 58-item benchmark across five Arabic registers, ~1,500 judge trials; MSA won 100% of non-tied pairwise comparisons against every regional variety, for both judges. *Manuscript in preparation for ACL Rolling Review (Oct 2026).*
-- **[Hugging Face Transformers — PR #47090](https://github.com/huggingface/transformers/pull/47090)** — diagnosed and fixed a training-loss double-shift bug in CohereASR; at maintainers' request, propagated the fix to Moonshine and PPFormulaNet. Approved by maintainers, CI green.
+- **[Hugging Face Transformers — PR #47090](https://github.com/huggingface/transformers/pull/47090)** — identified a training-loss double-shift bug in CohereASR, implemented regression-tested fixes, and propagated the analysis to Moonshine and PPFormulaNet at maintainer request. Maintainer-approved; closed after equivalent fixes landed upstream first.
 - **[SHARP-RAG](https://github.com/eliaghazal/SHARP-RAG)** — sole author. Four-agent, critic-gated LangGraph pipeline for multi-hop QA; published an *honest negative result* (critic over-rejection degraded EM 25%→15%) with full failure analysis. [Preprint on Zenodo](https://zenodo.org/records/20690440).
 - **[CrashLens](https://github.com/eliaghazal/crashlens)** — first author, 5-person senior project. Embedded crash detection + AI-assisted forensic evidence: Raspberry Pi 5 edge device, Cloudflare Workers/Supabase backend, Flutter apps. Cut responder notification from ~14 min to 25–35 s in controlled tests. **Accepted, IEEE ICCA 2026** — presenting in Cairo, Dec 2026. · [crashlens.org](https://crashlens.org)
 
