@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-eliaghazal-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/eliaghazal)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--1379--5542-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-1379-5542)
-[![Email](https://img.shields.io/badge/Email-eliaghazal777@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:eliaghazal777@gmail.com)
+[![Email](https://img.shields.io/badge/Email-elia@eliaghazal.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:elia@eliaghazal.com)
 [![Website](https://img.shields.io/badge/Web-eliaghazal.com-111111?style=flat&logo=safari&logoColor=white)](https://eliaghazal.com)
 
 </div>
