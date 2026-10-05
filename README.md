@@ -2,47 +2,46 @@
 
 # Elia Ghazal
 
-**NLP / LLM-Evaluation Researcher · CrashLens co-author (IEEE ICCA 2026)**
+**NLP and LLM-evaluation researcher · CrashLens co-author (IEEE ICCA 2026)**
 
 *I study whether AI judges can be trusted, and build the systems that test them.*
 
+[![Website](https://img.shields.io/badge/Web-eliaghazal.com-111111?style=flat&logo=safari&logoColor=white)](https://eliaghazal.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-eliaghazal-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/eliaghazal)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--1379--5542-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-1379-5542)
 [![Email](https://img.shields.io/badge/Email-elia@eliaghazal.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:elia@eliaghazal.com)
-[![Website](https://img.shields.io/badge/Web-eliaghazal.com-111111?style=flat&logo=safari&logoColor=white)](https://eliaghazal.com)
 
 </div>
 
 ---
 
-## Research & Selected Contributions
+## Research
 
 - **Paper under anonymous review** (ACL Rolling Review, October 2026 cycle). Details after the review period.
-- **[Hugging Face Transformers — PR #47090](https://github.com/huggingface/transformers/pull/47090)** — identified a training-loss double-shift bug in CohereASR, implemented regression-tested fixes, and propagated the analysis to Moonshine and PPFormulaNet at maintainer request. Maintainer-approved; closed after equivalent fixes landed upstream first.
-- **[SHARP-RAG](https://github.com/eliaghazal/SHARP-RAG)** — sole author. Four-agent, critic-gated LangGraph pipeline for multi-hop QA; published an *honest negative result* (critic over-rejection degraded EM 25%→15%) with full failure analysis. [Preprint on Zenodo](https://zenodo.org/records/20690440).
-- **[CrashLens](https://github.com/eliaghazal/crashlens)** — first author, 5-person senior project. Embedded crash detection + AI-assisted forensic evidence: Raspberry Pi 5 edge device, Cloudflare Workers/Supabase backend, Flutter apps. Cut responder notification from ~14 min to 25–35 s in controlled tests. **Accepted, IEEE ICCA 2026** — presenting in Cairo, Dec 2026. · [crashlens.org](https://crashlens.org)
+- **[CrashLens](https://github.com/eliaghazal/crashlens)**: accepted at **IEEE ICCA 2026**, presenting in person in Cairo in December. A 5-person senior capstone: a Raspberry Pi 5 edge device (IMU crash detection, camera, GPS, cellular) feeding a Cloudflare Workers API and a Flutter driver app. Decoupling the SOS from the video upload cut crash-to-dispatch latency from about 14 minutes to about 30 seconds in bench testing. [crashlens.org](https://crashlens.org)
+- **[SHARP-RAG](https://github.com/eliaghazal/SHARP-RAG)**: sole author. A four-agent, critic-gated LangGraph pipeline for multi-hop QA, published as an honest negative result: critic over-rejection took exact match from 25% to 15%, with the full failure analysis. [Preprint on Zenodo](https://zenodo.org/records/20690440)
 
-## Engineering Projects
+## Projects
 
 | Project | What it does | Stack |
 |---|---|---|
-| [EmotionAI](https://github.com/eliaghazal/EmotionAI) | Real-time multi-face emotion recognition with SE-attention CNN and live web dashboard — built with Georges El Khayat | PyTorch · Flask · SocketIO · OpenCV |
-| [Web Bluetooth Dashboard](https://github.com/eliaghazal/Web-Bluetooth-Medical-Fitness-Dashboard) | Live BLE/GATT sensor streaming (heart rate, temperature) directly in the browser — course project turned working product | ASP.NET Core · Web Bluetooth API |
-| [DFA Minimization Visualizer](https://github.com/eliaghazal/DFA_Minimization) | Interactive automata-minimization tool — adopted as a teaching aid beyond its original course | C++ |
-| [eliaghazal.com](https://eliaghazal.com) | Portfolio & writing — Next.js 15, 100/100 Lighthouse | Next.js · Vercel |
+| [EmotionAI](https://github.com/eliaghazal/EmotionAI) | Real-time multi-face emotion recognition with a custom SE-attention CNN and a live Grad-CAM dashboard, built with Georges El Khayat | TensorFlow/Keras · OpenCV · Flask/SocketIO |
+| [Web Bluetooth Medical Fitness Dashboard](https://github.com/eliaghazal/Web-Bluetooth-Medical-Fitness-Dashboard) | BLE/GATT sensor streaming in the browser, with user accounts, deployed live; Apple Watch data synced through a native iOS/HealthKit app | ASP.NET Core · C# |
+| [DFA Minimization Visualizer](https://github.com/eliaghazal/DFA_Minimization) | Interactive automata minimization; adopted by a professor as a teaching aid in a Theory of Computation course | C++17 · Qt 6 |
+| [eliaghazal.com](https://eliaghazal.com) | Portfolio and writing | Next.js · Vercel |
 
 ## Experience
 
-- **Backend Engineering Intern — Smart Code, Lebanon** (Sep 15 – Nov 3, 2025): Spring Boot REST APIs, Kafka messaging, ISO-message POS socket server
-- **Instructor — AI Summer Camp for high-schoolers** (Jul 2026): designed and taught a beginner AI/programming curriculum
+- **Backend Engineering Intern, Smart Code** (Sep to Nov 2025): REST APIs in Spring Boot (validation, caching, asynchronous processing, testing); Kafka messaging and a custom socket server for ISO-message point-of-sale transactions.
+- **Instructor, AI Summer Camp for high-school students** (Jul 2026): designed and taught a beginner AI and programming curriculum.
 
 ## Education
 
-**B.S. Computer Science — AUST Beirut**, Oct 2023 – Jun 2026 (under 3 years) · **GPA 3.81/4.00, High Distinction** · Distinguished List ×5 semesters
+**B.S. Computer Science, American University of Science and Technology (AUST)**, Oct 2023 to Jun 2026, completed in 3 years · **GPA 3.81/4.00, High Distinction** · Distinguished List ×5
 
-## Certifications & Languages
+## Certifications and languages
 
-IT Specialist — Python, Certiport/Pearson (2024) · Cisco Networking Academy CCNA courses (Intro to Networks 2024 · Switching, Routing & Wireless Essentials 2025) · Cisco IT Essentials (2024) · Michigan ECPE (English C2) · DELF B2 (French)
+IT Specialist: Python (Certiport/Pearson, 2024) · Cisco Networking Academy CCNA courses (Introduction to Networks, 2024; Switching, Routing and Wireless Essentials, 2025) · Cisco IT Essentials (2024) · Michigan ECPE (English, C2) · DELF B2 (French)
 
 Arabic (native) · English (C2) · French (B2) · Italian (learning)
 
@@ -50,6 +49,6 @@ Arabic (native) · English (C2) · French (B2) · Italian (learning)
 
 <div align="center">
 
-*Also the author of* Whispers of the Eclipse *(poetry, Ukiyoto 2024). Code compiles; poetry endures.*
+*Also the author of* Whispers of the Eclipse *(poetry, Ukiyoto, 2024).*
 
 </div>
