@@ -2,7 +2,7 @@
 
 # Elia Ghazal
 
-**NLP / LLM-Evaluation Researcher · CrashLens Co-founder**
+**NLP / LLM-Evaluation Researcher · CrashLens co-author (IEEE ICCA 2026)**
 
 *I study whether AI judges can be trusted, and build the systems that test them.*
 
@@ -42,7 +42,7 @@
 
 ## Certifications & Languages
 
-IT Specialist — Python, Certiport/Pearson (2024) · Cisco CCNA (Intro to Networks 2024 · Switching, Routing & Wireless 2025) · Cisco IT Essentials (2024) · Michigan ECPE (English C2) · DELF B2 (French)
+IT Specialist — Python, Certiport/Pearson (2024) · Cisco Networking Academy CCNA courses (Intro to Networks 2024 · Switching, Routing & Wireless Essentials 2025) · Cisco IT Essentials (2024) · Michigan ECPE (English C2) · DELF B2 (French)
 
 Arabic (native) · English (C2) · French (B2) · Italian (learning)
 
