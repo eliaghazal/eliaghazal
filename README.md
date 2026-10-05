@@ -18,7 +18,7 @@
 ## Research
 
 - **Paper under anonymous review** (ACL Rolling Review, October 2026 cycle). Details after the review period.
-- **[CrashLens](https://github.com/eliaghazal/crashlens)**: accepted at **IEEE ICCA 2026**, presenting in person in Cairo in December. A 5-person senior capstone: a Raspberry Pi 5 edge device (IMU crash detection, camera, GPS, cellular) feeding a Cloudflare Workers API and a Flutter driver app. Decoupling the SOS from the video upload cut crash-to-dispatch latency from about 14 minutes to about 30 seconds in bench testing. [crashlens.org](https://crashlens.org)
+- **[CrashLens](https://github.com/eliaghazal/crashlens)**: accepted at **IEEE ICCA 2026**, presenting in person in Cairo in December, and winner of the **Innovation Award, 2nd place, Computer Science track** at the AUST Engineering & Computer Science Expo 2026 (team award). A 5-person senior capstone: a Raspberry Pi 5 edge device (IMU crash detection, camera, GPS, cellular) feeding a Cloudflare Workers API and a Flutter driver app. Decoupling the SOS from the video upload cut crash-to-dispatch latency from about 14 minutes to about 30 seconds in bench testing. [crashlens.org](https://crashlens.org)
 - **[SHARP-RAG](https://github.com/eliaghazal/SHARP-RAG)**: sole author. A four-agent, critic-gated LangGraph pipeline for multi-hop QA, published as an honest negative result: critic over-rejection took exact match from 25% to 15%, with the full failure analysis. [Preprint on Zenodo](https://zenodo.org/records/20690440)
 
 ## Projects
